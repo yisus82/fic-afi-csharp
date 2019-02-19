@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<appointements>
+	<confirmed>
+		<time>08:00 AM</time>
+		<name>Arnold James</name>
+		<type>Ears</type>
+	</confirmed>
+	<confirmed>
+		<time>12:00 PM</time>
+		<name>Mark White</name>
+		<type>Throat</type>
+	</confirmed>
+	<confirmed>
+		<time>10:00 AM</time>
+		<name>Billy Jean</name>
+		<type>Eyes</type>
+	</confirmed>
+</appointements>

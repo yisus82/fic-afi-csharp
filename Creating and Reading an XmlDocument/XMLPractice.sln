@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "XMLPractice", "XMLPractice.csdproj", "{D9796F88-5432-4EBE-A2C7-93C3B8D5B216}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D9796F88-5432-4EBE-A2C7-93C3B8D5B216}.Debug.ActiveCfg = Debug|Pocket PC
+		{D9796F88-5432-4EBE-A2C7-93C3B8D5B216}.Debug.Build.0 = Debug|Pocket PC
+		{D9796F88-5432-4EBE-A2C7-93C3B8D5B216}.Debug.Deploy.0 = Debug|Pocket PC
+		{D9796F88-5432-4EBE-A2C7-93C3B8D5B216}.Release.ActiveCfg = Release|Pocket PC
+		{D9796F88-5432-4EBE-A2C7-93C3B8D5B216}.Release.Build.0 = Release|Pocket PC
+		{D9796F88-5432-4EBE-A2C7-93C3B8D5B216}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
